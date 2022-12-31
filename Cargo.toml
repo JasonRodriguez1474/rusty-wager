@@ -2,7 +2,7 @@
 name = "rusty-wager"
 version = "0.1.0"
 edition = "2021"
-authors = ["Jason Rodriguez"]
+authors = ["Jason Rodriguez <jasonrodriguez1474@gmail.com>"]
 readme = "README.md"
 homepage = "https://github.com/JasonRodriguez1474/rusty-wager"
 
